@@ -5,7 +5,7 @@ function SearchBar() {
     <div className="mt-2 flex w-full max-w-6xl items-center rounded-3xl border border-gray-200 bg-white px-2 py-2 shadow-lg transition-all duration-300 hover:shadow-xl">
       <input
         type="text"
-        placeholder="What do you need today?"
+        placeholder="  What do you need today?"
         className="flex-1 bg-transparent text-lg text-gray-700 outline-none placeholder:text-gray-400"
       />
 
